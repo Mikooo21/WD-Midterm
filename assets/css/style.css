@@ -29,4 +29,12 @@ img {
     margin: 15px;
   }
 
- 
+.nav{
+    display: flex;
+}
+ .btn{
+    padding: 10px;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+ }
